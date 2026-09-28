@@ -1,0 +1,1 @@
+# Nach Detail module
